@@ -1,0 +1,12 @@
+.title{
+    color: #f58634;
+}
+.Card-container:hover{
+
+    background-color: #f58634 ;
+ 
+}
+.Card-container:hover .title{
+    color: black;
+
+}
